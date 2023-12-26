@@ -28,7 +28,7 @@ const dashboard = async (req, res) => {
 
   res.status(200).json({
     msg: `Hello, ${req.user.username}`,
-    secret: `Here is your authorized data, which is your lucky number is ${luckyNumber}`,
+    secret: `Here is your authorized data, your lucky number is ${luckyNumber}`,
   })
 }
 

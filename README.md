@@ -8,10 +8,8 @@ This project demonstrates a basic implementation of JSON Web Tokens (JWT) for au
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
 - [License](#license)
-
+  
 ## Introduction
 JSON Web Tokens (JWT) are a compact, URL-safe means of representing claims to be transferred between two parties. This project showcases a simple implementation of JWT for authentication purposes.
 
@@ -43,3 +41,6 @@ Before you begin, ensure you have the following installed:
    
 ## Start
 Go to http://localhost:5000/ to start the project.
+
+## License
+This project is licensed under the MIT License.
